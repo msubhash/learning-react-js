@@ -1,0 +1,59 @@
+# Privacy Policy
+
+Last updated: 15th Decmber 2024
+
+## 1. Introduction
+
+Welcome to Easy Sanskrit, ("we," "our," or "us"). This privacy policy explains how we collect, use, and protect your information when you use our application.
+
+## 2. Information We Collect
+
+Our application collects the following information:
+
+- Facebook Page access information
+- Instagram Business account access information
+
+
+## 3. How We Use Your Information
+
+We use the collected information solely for:
+
+- Posting content to your Facebook Page and Instagram Business account
+
+## 4. Data Storage and Security
+
+We take data security seriously:
+
+- We do not store your content permanently
+- Access tokens are securely handled
+- We use industry-standard security measures
+- We do not share your data with third parties
+
+## 5. User Rights
+
+You have the right to:
+
+- Access your data
+- Request deletion of your data
+- Revoke access to your Facebook and Instagram accounts
+- Request information about your data usage
+
+## 6. Data Deletion
+
+To request deletion of your data:
+
+- Email us
+- Remove our app's access through your Facebook settings
+- All data will be deleted within 30 days of request
+
+## 7. Changes to Privacy Policy
+
+We may update this privacy policy from time to time. Please visit privacy policy on our website. 
+
+
+## 10. Compliance
+
+This privacy policy complies with:
+
+- Facebook Platform Policies
+- Instagram Platform Policies
